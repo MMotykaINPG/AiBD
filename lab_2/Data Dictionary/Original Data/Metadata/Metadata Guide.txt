@@ -1,0 +1,5 @@
+Oryginalny plik pew.sav zosta³ pobrany ze strony:
+https://github.com/jerzybaranowski/public_lectures/tree/master/Analiza%20i%20Bazy%20Danych/Lab%201%20-%20tidy%20data/Datasets
+
+Plik zawiera informacje na temat religi i przychodów obywateli USA.
+PLik jest w formacie SPSS

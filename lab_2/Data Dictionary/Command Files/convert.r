@@ -1,0 +1,5 @@
+library(foreign)
+df <- read.spss("pew.sav", use.value.label=TRUE, to.data.frame=TRUE)
+write.csv(df, "pew_importable.csv")
+data = select(df, q16,income)
+write.csv(data, "analysis_data.csv")
