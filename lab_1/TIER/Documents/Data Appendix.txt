@@ -1,0 +1,7 @@
+Plik analysis_data.csv zawiera 2 kolumny:
+
+q16
+Okreœla deklaracjê wyznawanej religi
+
+income
+Okreœla zadeklarowany przedzia³ rocznych zarobków ca³ej rodziny
