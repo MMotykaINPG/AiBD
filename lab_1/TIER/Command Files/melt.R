@@ -51,4 +51,4 @@ write.csv(table1,"pew_final.csv")
 table2 = melt(table1)
 colnames(table2) = c("religion","income","freq")
 
-write.csv(table2,"dwa.csv")
+write.csv(table2,"analysis_data.csv")
